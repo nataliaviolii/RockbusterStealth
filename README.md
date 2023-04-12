@@ -1,6 +1,8 @@
 # Rockbuster Stealth LLC - SQL Project
 ## **Project Overview**
+
 ![sites-rent-movies-online-fandangonow-featured](https://user-images.githubusercontent.com/130076002/231504282-92f6b383-84ba-40b4-8c25-7e291f3e5e71.jpg)
+
 ### **Company:**<br>
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world.
 

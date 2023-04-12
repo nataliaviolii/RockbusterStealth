@@ -6,7 +6,7 @@
 SELECT country,
        SUM(amount) AS total_payment,
        COUNT(DISTINCT customer.customer_id) AS customer_count,
-       SUM(amount)/COUNT(customer.customer_id) AS average_payment_per_customer
+       SUM(amount)/COUNT(DISTINCT customer.customer_id) AS average_payment_per_customer
 FROM customer
 INNER JOIN address ON customer.address_id = address.address_id
 INNER JOIN city ON address.city_id = city.city_id

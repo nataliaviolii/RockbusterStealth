@@ -1,7 +1,7 @@
 ## **Some Queries Used Throughout the Project**
 
 ### Join Table
-#### Find top 20 countries with highest total payment:
+#### Find the top 20 countries with highest total payment:
 ```
 SELECT country,
        SUM(amount) AS total_payment,

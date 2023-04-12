@@ -18,6 +18,6 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 ### **Objective:**<br>
 To help Rockbuster Stealth's Business Intelligence (BI) department with the launch strategy for the new online video service.
 
-### _ERD used in this project:_
+### **ERD:**
 ![Rockbuster ERD](https://user-images.githubusercontent.com/130076002/231503686-05574949-6638-43f0-9641-dc497d323be5.png)
 

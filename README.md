@@ -17,6 +17,9 @@ The Rockbuster Stealth Management Board has asked a series of business questions
 4. Where are customers with a high lifetime value based?
 5. Do sales figures vary between geographic regions?
 
+### **Project Brief:**<br>
+Details of this project can be found [here](https://drive.google.com/file/d/1IXdPVviXDliTmw4f7dmYXgf_hEH_oRSW/view?usp=sharing).
+
 ### **Objective:**<br>
 To help Rockbuster Stealth's Business Intelligence (BI) department with the launch strategy for the new online video service.
 
@@ -24,4 +27,5 @@ To help Rockbuster Stealth's Business Intelligence (BI) department with the laun
 ![Rockbuster ERD](https://user-images.githubusercontent.com/130076002/231503686-05574949-6638-43f0-9641-dc497d323be5.png)
 
 ### **Result:**
-Data Visualization Link: [RockbusterStealth Dashboard](https://public.tableau.com/app/profile/natalia.violi.kristena.wijaya/viz/CareerFoundry-RockbusterStealthFinalProject_16813935965380/RockbusterStealthStoryboard)
+- [RockbusterStealth Dashboard](https://public.tableau.com/app/profile/natalia.violi.kristena.wijaya/viz/CareerFoundry-RockbusterStealthFinalProject_16813935965380/RockbusterStealthStoryboard)
+- [Rockbuster Portfolio](https://nataliaviolii.github.io/DataAnalyticsPortfolio/portfolio.sql.html) 

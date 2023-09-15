@@ -27,5 +27,5 @@ To help Rockbuster Stealth's Business Intelligence (BI) department with the laun
 ![Rockbuster ERD](https://user-images.githubusercontent.com/130076002/231503686-05574949-6638-43f0-9641-dc497d323be5.png)
 
 ### **Result:**
-- [RockbusterStealth Dashboard](https://public.tableau.com/app/profile/natalia.violi.kristena.wijaya/viz/CareerFoundry-RockbusterStealthFinalProject_16813935965380/RockbusterStealthStoryboard)
+- [Rockbuster Dashboard](https://public.tableau.com/app/profile/natalia.violi.kristena.wijaya/viz/CareerFoundry-RockbusterStealthFinalProject_16813935965380/RockbusterStealthStoryboard)
 - [Rockbuster Portfolio](https://nataliaviolii.github.io/DataAnalyticsPortfolio/portfolio.sql.html) 
